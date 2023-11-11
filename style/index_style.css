@@ -67,11 +67,10 @@ body {
   color: white;
 }
 
-.main_title_content h2::after {
+/*.main_title_content h2::after {
   content: "Full Stack Developer.";
   color: #ffedcd;
-  
-}
+} */
 
 .main_content {
   display: flex;
